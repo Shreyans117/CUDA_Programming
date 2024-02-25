@@ -4,4 +4,4 @@ Implemented the following:
 2. Array Reduction (coalesced memory accesses)
 3. Matrix Multiplication (shared memory tiling)
 4. Histogram Analysis (atomic operations, shared memory)
-5. Ported an existing C backpropagation algorithm to CUDA
+5. Ported an existing C based machine learning project to CUDA
